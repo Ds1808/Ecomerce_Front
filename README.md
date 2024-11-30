@@ -19,6 +19,7 @@ npm start
 
 # Comandos para creacion de un nuevo proyecto
 npm -y init
+
 Npx create-react-app frontend
 npm install axios react-router-dom npm i @material-tailwind/react
 npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
